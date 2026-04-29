@@ -103,4 +103,4 @@
 
 
 # ✅ Contributions
-<img src="https://raw.githubusercontent.com/JyotirmoyDas05/JyotirmoyDas05/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rajdeep-Mudiar/Rajdeep-Mudiar/output/snake.svg" alt="Snake animation" />
