@@ -87,7 +87,7 @@
 # 🧑‍💻 DSA Stats
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height ="23" width="23"/> LeetCode 
-![Leetcode Stats](![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/raj2031g?theme=dark&font=Suwannaphum&ext=heatmap)))
+![LeetCode Stats](https://leetcard.jacoblin.cool/raj2031g?theme=dark&font=Suwannaphum&ext=heatmap))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajdeep-Mudiar&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
