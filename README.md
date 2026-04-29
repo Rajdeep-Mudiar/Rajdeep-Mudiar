@@ -76,11 +76,11 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JyotirmoyDas05&theme=tokyonight&hide_border=false" style="height: 195px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep-Mudiar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Rajdeep-Mudiar&theme=tokyonight&hide_border=false" style="height: 195px;" />
   </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep-Mudiar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; width: auto;" />
 </div>
 
 
